@@ -93,14 +93,22 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+# include:
+# exclude:
+# ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly-dev
+theme: butterfly
+#RSS订阅
+plugin:
+- hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 
 
 algolia:
@@ -118,14 +126,14 @@ deploy:
 douban:
   user: 183291302
   builtin: false
-  book:
-    title: 'This is my book title'
-    quote: 'This is my book quote'
-    meta: true
-    comments: true
-    top_img: /img/top_img/book.png
-    aside: true
-    path: books
+  # book:
+  #   title: 'This is my book title'
+  #   quote: 'This is my book quote'
+  #   meta: true
+  #   comments: true
+  #   top_img: /img/top_img/book.png
+  #   aside: true
+  #   path: books
   movie:
     title: '那些年,我看过的电影'
     quote: '令人印象深刻...'
