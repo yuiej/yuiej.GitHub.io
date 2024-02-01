@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yuiej.github.io/2024/02/01/photoprism-deploy/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/2024/02/01/icloudpd-deploy/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/2021/06/16/centOS8install/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/2021/06/21/%E6%9B%B4%E6%8D%A2%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yuiej.github.io/2022/01/06/hello-world/</loc>
     
     <lastmod>2022-01-06</lastmod>
@@ -72,21 +100,7 @@
   </url>
   
   <url>
-    <loc>https://yuiej.github.io/2021/06/21/%E6%9B%B4%E6%8D%A2%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C/</loc>
-    
-    <lastmod>2022-01-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yuiej.github.io/2021/06/17/CentOS%208%20%E5%AE%89%E8%A3%85Mysql%205.7/</loc>
-    
-    <lastmod>2022-01-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yuiej.github.io/2021/06/16/centOS8%20install/</loc>
     
     <lastmod>2022-01-06</lastmod>
     
@@ -95,7 +109,7 @@
 
   <url>
     <loc>https://yuiej.github.io/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,21 +117,56 @@
   
   <url>
     <loc>https://yuiej.github.io/tags/Linux/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yuiej.github.io/tags/Mysql/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yuiej.github.io/tags/Hexo/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</loc>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/tags/Raspberry-Pi/</loc>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/tags/iCloud/</loc>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/tags/photo/</loc>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/tags/%E5%90%8C%E6%AD%A5/</loc>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -126,21 +175,28 @@
   
   <url>
     <loc>https://yuiej.github.io/categories/Mysql/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yuiej.github.io/categories/Linux/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yuiej.github.io/categories/Hexo/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuiej.github.io/categories/Linux/Raspberry-Pi/</loc>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
